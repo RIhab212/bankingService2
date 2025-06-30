@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"service","l":"Account"},{"p":"service","l":"AccountService"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"model","l":"Transaction"}];updateSearchResults();
